@@ -21,10 +21,10 @@ class FamilyPaga extends StatelessWidget {
         jpName: 'Musuke',
         enName: 'Son'),
     obj(
-        sound: 'sounds/family_members/son.wav',
-        imaga: 'assets/images/family_members/family_son.png',
-        jpName: 'Musuke',
-        enName: 'Son'),
+        sound: 'sounds/family_members/mother.wav',
+        imaga: 'assets/images/family_members/family_mother.png',
+        jpName: 'Okasan',
+        enName: 'Mother'),
     obj(
         sound: 'sounds/family_members/son.wav',
         imaga: 'assets/images/family_members/family_son.png',

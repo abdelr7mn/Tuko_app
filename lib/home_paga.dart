@@ -15,7 +15,7 @@ class homePaga extends StatelessWidget {
         backgroundColor: Color.fromARGB(255, 226, 153, 153),
         title: Center(
           child: Text(
-            'Movies',
+            'Toku',
             style: TextStyle(
               color: Colors.white,
               fontSize: 30,
@@ -40,7 +40,7 @@ class homePaga extends StatelessWidget {
                 return FamilyPaga();
               }));
             },
-            text: 'FamilyMumbers',
+            text: 'Family Mumbers',
             color: Color.fromARGB(255, 240, 154, 154),
           ),
           catgory(
